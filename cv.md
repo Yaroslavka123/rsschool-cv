@@ -8,3 +8,5 @@ sample code:
     string="Hello World "
     print(string * n)  
 I have no work experience
+I finished 10th grade
+I know English at school level
